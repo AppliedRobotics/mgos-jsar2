@@ -1,1 +1,3 @@
-Библиотека для использования Dynamixel-совместимых устройств на платах с ESP32 (+ Mongoose OS) от Applied Robotics.
+Библиотека для использования плат ESP-JS-AR (+ Mongoose OS) от Applied Robotics.
+
+Данная библиотека отличается от библиотеки mgos-jsar тем, что она работает на основе библиотеки mgos-dxlmaster2.
